@@ -79,12 +79,6 @@ See `docs/data_sources.md` for licences, resolution, update frequency and missin
 
 SmogSignal provides general air-quality information and exposure-oriented guidance. It is **not medical advice**.
 
-## Team
-
-- Name 1: role
-- Name 2: role
-- Name 3: role
-
 ## License
 
 MIT
