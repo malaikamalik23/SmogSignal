@@ -75,6 +75,9 @@ See `docs/data_sources.md` for licences, resolution, update frequency and missin
 - [ ] M7: Dashboard
 - [ ] M8: Evaluation report and demo
 
+## Team
+3 people team
+
 ## Disclaimer
 
 SmogSignal provides general air-quality information and exposure-oriented guidance. It is **not medical advice**.
