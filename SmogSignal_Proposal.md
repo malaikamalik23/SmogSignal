@@ -106,7 +106,7 @@ For each dataset the repository documents source, licence, resolution, update fr
 
 ## 9. Resources / Requirements
 
-- **Team:** 3-4 students (ML, backend, frontend/UX, data/evaluation)
+- **Team:** 3 students (ML, backend, frontend/UX, data/evaluation)
 - **Software:** Python, Pandas, NumPy, scikit-learn, LightGBM/XGBoost, SHAP, MAPIE or custom conformal code, FastAPI, SQLite, Plotly, Leaflet, React/Next.js (or Streamlit as fallback), Docker
 - **Compute:** a laptop or free-tier cloud; no GPU needed
 - **Data access:** free API keys (NASA FIRMS, OpenAQ)
